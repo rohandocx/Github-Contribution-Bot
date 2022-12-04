@@ -25,4 +25,4 @@ const makeCommit = (n) => {
       .push();
   });
 };
-makeCommit(120);
+makeCommit(100);
